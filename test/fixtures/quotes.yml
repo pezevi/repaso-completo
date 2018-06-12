@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date_quote: 2018-06-11
+  user: one
+  client: one
+
+two:
+  date_quote: 2018-06-11
+  user: two
+  client: two
